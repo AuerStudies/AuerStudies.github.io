@@ -1,14 +1,125 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<title>
-Relative Mass To Speed
-</title>
-</head>
-<body>
-<h1 style="text-align: center; padding-left: 90px;">Relative Mass to Speed</h1>
-<p style="text-align: left;">In this article, I will show you how things get heavier the faster you go. I have an image to show you better about how much it increases the higher you go.&nbsp;</p>
-<p style="text-align: left;"><img src="https://i.postimg.cc/Twnv2zSg/relativistic-mass.png" alt="" width="926" height="800" /></p>
-<p style="text-align: left;">As you can see above, any object will weigh more, and be harder to move further, the faster it goes. For example, a small baseball (142 grams) moving at the speed of an Oh-My-God-Particle would weigh around 1/4 of the NASA space shuttle. WOAH, that's a lot in a small baseball! The summary is that this doesn't really matter now because humans haven't reached such speeds yet, as even astronauts on a space station have a very small effect, as the effect gets larger as the object goes closer to the speed of light.</p>
-</body>
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>AuerStudies</title>
+
+        <meta name="description" content="">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="canonical" href="#" />
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="style.css">
+
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+    </head>
+
+    <body>
+
+        <!--[if lt IE 8]>
+
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+
+        <![endif]-->
+
+
+
+		<div class="wrapAll clearfix">
+
+			<div class="sidebar">
+
+				<div class="logo">
+
+					<a href="/"><img src='img/logo.png' alt="logo"></a>
+
+				</div>
+
+				<div class="navigation">
+
+					<ul>
+
+						<li><a href="#">Main page</a></li>
+
+						<li><a href="https://auerstudies.github.io/articles">Articles</a></li>
+
+					</ul>
+
+				</div>
+
+
+
+			
+
+			</div>
+
+			<div class="mainsection">
+
+				<div class="tabs clearfix">
+
+					<div class="tabsLeft">
+
+						<ul>
+
+							<li><a href="#" class="active">Article</a></li>					
+
+						</ul>
+
+					</div>
+
+				</div>
+
+				<div class="article">
+
+					<h1>Relative Mass to Speed</h1>
+
+					<p style="text-align: left;">In this article, I will show you how things get heavier the faster you go. I have an image to show you better about how much it increases the higher you go.&nbsp;</p>
+
+					<p style="text-align: left;"><img src="https://i.postimg.cc/Twnv2zSg/relativistic-mass.png" alt="" width="926" height="800" /></p>
+
+					<p style="text-align: left;">As you can see above, any object will weigh more, and be harder to move further, the faster it goes. For example, a small baseball (142 grams) moving at the speed of an Oh-My-God-Particle would weigh around 1/4 of the NASA space shuttle. WOAH, that's a lot in a small baseball! The summary is that this doesn't really matter now because humans haven't reached such speeds yet, as even astronauts on a space station have a very small effect, as the effect gets larger as the object goes closer to the speed of light.</p>					
+
+				</div>
+
+				<div class="pagefooter">
+
+					Page made on 2019-12-28 - Web Template by <a href="http://html5-templates.com/">HTML5-Templates</a>
+
+				</div>
+
+			
+
+			
+
+			</div>		
+
+		</div>
+
+		
+
+		
+
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+
+        <script src="script.js"></script>
+
+
+
+
+
+    </body>
+
 </html>
